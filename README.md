@@ -40,4 +40,4 @@ Um doce folhado recheado com pêssegos suculentos e creme de baunilha. É uma so
 Pequenos e coloridos biscoitos de amêndoa com uma textura crocante por fora e macia por dentro. Temos uma variedade de sabores disponíveis, incluindo chocolate, framboesa e pistache. Ingredientes: farinha de amêndoa, açúcar de confeiteiro, clara de ovo, corante alimentar (para as cores), recheio de sua escolha.
 
 ### Bolo de Damasco
-Um bolo de camadas macias e úmidas com recheio de damasco e cobertura de creme de manteiga. Perfeito para ocasiões especiais ou para os amantes de bolos frutados. Ingredientes: farinha de trigo, açúcar, manteiga, ovos, damascos,
+Um bolo de camadas macias e úmidas com recheio de damasco e cobertura de creme de manteiga. Perfeito para ocasiões especiais ou para os amantes de bolos frutados. Ingredientes: farinha de trigo, açúcar, manteiga, ovos, damascos,# FrontEndFood
